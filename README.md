@@ -1,4 +1,8 @@
 <div align="center">
+  <img width=100% src="https://github.com/naluisaelias/naluisaelias/blob/main/images/border-top.svg">
+</div>
+
+<div align="center">
   <img width=200pt src="https://github.com/naluisaelias/naluisaelias/blob/main/images/welcome.png">
 </div>
 
@@ -7,14 +11,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/naluisaelias" target="_blank">
-    <img width=100pt src="https://github.com/naluisaelias/naluisaelias/blob/main/images/linkedin.png">
+  <a href="https://www.linkedin.com/in/naluisaelias" target="_blank" style="margin-right: 20px;">
+    <img width=125pt src="https://github.com/naluisaelias/naluisaelias/blob/main/images/linkedin.png">
   </a>
-  <a href="mailto:naluisaelias@gmail.com">
-    <img width=100pt src="https://github.com/naluisaelias/naluisaelias/blob/main/images/gmail.png">
+  <a href="mailto:naluisaelias@gmail.com" style="margin-left: 20px;">
+    <img width=125pt src="https://github.com/naluisaelias/naluisaelias/blob/main/images/gmail.png">
   </a>
 </div>
-
 
 # 🛠️ Back-End
 ![C#](https://img.shields.io/badge/C%23-fe428e?style=for-the-badge&logo=c-sharp&logoColor=a9fef7)
@@ -47,3 +50,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-f8d847?style=for-the-badge&logo=eclipse&logoColor=141321)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-a9fef7?style=for-the-badge&logo=intellij-idea&logoColor=141321)
 ![VS Code](https://img.shields.io/badge/VS%20Code-fe428e?style=for-the-badge&logo=visual-studio-code&logoColor=a9fef7)
+
+<div align="center">
+  <img width=100% src="https://github.com/naluisaelias/naluisaelias/blob/main/images/border-bottom.svg">
+</div>
+
