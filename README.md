@@ -11,13 +11,18 @@
 </div>
 
 <div align="center">
+  <img width="85%" src="https://github.com/naluisaelias/naluisaelias/blob/main/images/description.png" alt="Descrição">
+</div>
+
+<div align="center" style="margin-top: 30px;"> 
   <a href="https://www.linkedin.com/in/naluisaelias" target="_blank" style="margin-right: 20px;">
-    <img width=125pt src="https://github.com/naluisaelias/naluisaelias/blob/main/images/linkedin.png">
+    <img width="155pt" src="https://github.com/naluisaelias/naluisaelias/blob/main/images/linkedin.png" alt="LinkedIn">
   </a>
   <a href="mailto:naluisaelias@gmail.com" style="margin-left: 20px;">
-    <img width=125pt src="https://github.com/naluisaelias/naluisaelias/blob/main/images/gmail.png">
+    <img width="155pt" src="https://github.com/naluisaelias/naluisaelias/blob/main/images/gmail.png" alt="Gmail">
   </a>
 </div>
+
 
 # 🛠️ Back-End
 ![C#](https://img.shields.io/badge/C%23-fe428e?style=for-the-badge&logo=c-sharp&logoColor=a9fef7)
