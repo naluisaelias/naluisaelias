@@ -34,4 +34,3 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/naluisaelias/naluisaelias/blob/output/snake.svg)
