@@ -23,6 +23,8 @@
   </a>
 </div>
 
+##
+
 <div align="center" display="flex" flex="space-between">
   <a href="https://github.com/naluisaelias">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naluisaelias&rank_icon=github&theme=radical">
@@ -31,7 +33,5 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naluisaelias&layout=donut&theme=radical">
   </a>
 </div>
-
-##
 
 ![Snake animation](https://github.com/naluisaelias/naluisaelias/blob/output/snake.svg)
