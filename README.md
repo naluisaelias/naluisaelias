@@ -23,6 +23,16 @@
   </a>
 </div>
 
+<div align="center" display="flex" flex="space-between">
+  <a href="https://github.com/naluisaelias">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=naluisaelias&rank_icon=github&theme=radical">
+  </a>
+  <a href="[https://github.com/naluisaelias/repositorys](https://github.com/naluisaelias?tab=repositories)">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naluisaelias&layout=donut&theme=radical">
+  </a>
+</div>
+
+
 
 # 🛠️ Back-End
 ![C#](https://img.shields.io/badge/C%23-fe428e?style=for-the-badge&logo=c-sharp&logoColor=a9fef7)
