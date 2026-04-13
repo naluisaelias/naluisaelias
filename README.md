@@ -5,8 +5,10 @@
 <br />
 
 <div align="center">
-  <img width="200pt" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/welcome.png" alt="Welcome">
+  <img width="200pt" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/welcome.png" alt="Welcome World">
 </div>
+
+<br />
 
 <div align="center">
   <img width="300pt" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2500&pause=750&color=FE428E&vCenter=true&width=250&lines=Ana+Lu%C3%ADsa+Elias" alt="Typing SVG">
@@ -22,6 +24,9 @@
     <img height="35pt" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/gmail.png" alt="Gmail">
   </a>
 </div>
+
+<br />
+<br />
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/output/github-contribution-grid-snake.svg" alt="Snake animation">
