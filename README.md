@@ -1,41 +1,34 @@
 <div align="center">
-  <img width=100% src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/border-top.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/border-top.svg" alt="Border Top">
+</div>
+
+<br />
+
+<div align="center">
+  <img width="200pt" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/welcome.png" alt="Welcome">
 </div>
 
 <div align="center">
-  <img width=200pt src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/welcome.png">
+  <img width="300pt" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2500&pause=750&color=FE428E&vCenter=true&width=250&lines=Ana+Lu%C3%ADsa+Elias" alt="Typing SVG">
 </div>
 
-<div align="center">
- <img width=275pt src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2500&pause=750&color=FE428E&vCenter=true&width=250&lines=Ana+Lu%C3%ADsa+Elias">
-</div>
+<br />
 
-<div align="center" style="margin-top: 30px;"> 
-  <a href="https://www.linkedin.com/in/naluisaelias" target="_blank" style="margin-right: 20px;">
-    <img width="125pt" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/linkedin.png" alt="LinkedIn">
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/naluisaelias" target="_blank" style="margin-right: 15px;">
+    <img height="35pt" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/linkedin.png" alt="LinkedIn">
   </a>
-  <a href="mailto:naluisaelias@gmail.com" style="margin-left: 20px;">
-    <img width="125pt" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/gmail.png" alt="Gmail">
-  </a>
-</div>
-
-##
-
-<div align="center">
-  <a href="https://github.com/naluisaelias">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=naluisaelias&rank_icon=github&theme=radical" />
-  </a>
-  <a href="https://github.com/naluisaelias?tab=repositories">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naluisaelias&layout=donut&theme=radical" />
+  <a href="mailto:naluisaelias@gmail.com">
+    <img height="35pt" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/gmail.png" alt="Gmail">
   </a>
 </div>
 
-##
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img width="100%" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
+<br />
+
 <div align="center">
-  <img width=100% src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/border-top.svg" style="transform: rotate(180deg);">
+  <img width="100%" src="https://raw.githubusercontent.com/naluisaelias/naluisaelias/main/images/border-top.svg" alt="Border Bottom" style="transform: rotate(180deg);">
 </div>
